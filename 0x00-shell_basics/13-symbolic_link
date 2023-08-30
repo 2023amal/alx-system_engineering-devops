@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -map
+ln -s /bin/ls_ls_
